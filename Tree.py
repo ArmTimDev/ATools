@@ -28,3 +28,5 @@ def draw_fractal(blen):
 draw_fractal(100)
 my_turtle
 le = tu.done()
+
+print("By PythonyTools")
