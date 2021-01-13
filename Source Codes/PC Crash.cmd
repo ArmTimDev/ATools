@@ -1,22 +1,3 @@
 cd Desktop
-mkdir Hi
-mkdir Hello
-mkdir How
-mkdir Are
-mkdir You
-mkdir Haha
-mkdir Bla Bla
-mkdir GitHub
-mkdir Hello
-mkdir Hi
-mkdir Hello
-mkdir How
-mkdir Are
-mkdir You
-mkdir Haha
-mkdir Bla Bla
-mkdir GitHub
-mkdir Hello
-tree
-cd Hi
+mkdir Hi 1 2 3 4 5 6 7 8 9 10 11 12 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 shutdown /p
